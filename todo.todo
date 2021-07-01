@@ -1,0 +1,7 @@
+A fazer:
+	✔ Mudar o CartInterface do contruct para o products @done(21-06-17 00:05)
+	✔ Criar Conexao com o banco de dados @done(21-06-17 00:14)
+	✔ Criar Model padrão @done(21-06-17 00:14)
+	✔ Criar o Model Read @done(21-06-17 00:14)
+	✔ Fazer a listagem dos produtos na index com os dados do banco @done(21-06-17 00:16)
+	☐ Em CartProducts listar os produtos do carrinho com os dados do banco
